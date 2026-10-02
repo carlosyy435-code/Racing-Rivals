@@ -1,0 +1,12 @@
+{
+"name": "racing-rivals",
+"version": "1.0.0",
+"main": "serverjs",
+"scripts": {
+"start": "node serverjs"
+},
+"dependencies": {
+"express": "^4.21.2",
+"peer": "^1.0.2"
+}
+}
